@@ -1,0 +1,18 @@
+lua-cjson (2.1.0+dfsg-3) UNRELEASED; urgency=medium
+
+  * Migrate repository from alioth to salsa.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Fri, 27 May 2022 20:17:06 +0100
+
+lua-cjson (2.1.0+dfsg-2) unstable; urgency=low
+
+  * Add debian/watch file.
+
+ -- Dmitry E. Oboukhov <unera@debian.org>  Mon, 24 Sep 2012 11:50:30 +0400
+
+lua-cjson (2.1.0+dfsg-1) unstable; urgency=low
+
+  * Initial release. (Closes: #685591)
+
+ -- Dmitry E. Oboukhov <unera@debian.org>  Fri, 24 Aug 2012 14:35:49 +0400
+
